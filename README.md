@@ -9,8 +9,8 @@ As an example, we demonstrate the quantum simulation of a half-filled two-site H
 ## Repository Structure
 This repository includes the following components:
 
-data/ – Contains the raw data from simulations.
-notebooks/ – Jupyter notebooks for processing raw data and generating plots for Figures 2 and 5 from [1].
+- data – Contains the raw data from simulations.
+- draft_figs_repo.py – Jupyter notebooks for processing raw data and generating plots for Figures 2 and 5 from [1].
 
 ## References
 [1] Kumar, S., Hegade, N. N., Solano, E., Albarrán-Arriagada, F., & Alvarado Barrios, G. (2023). Digital-analog quantum computing of fermion-boson models in superconducting circuits. arXiv. https://arxiv.org/abs/2308.12040
